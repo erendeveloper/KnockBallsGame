@@ -1,4 +1,4 @@
-This project made with Unity3D 2018.3.9f1.Other version may not work correctly depending on Unity#D source codes.
+This project made with Unity3D 2018.3.9f1.Other version may not work correctly depending on Unity3D source codes.
 
 
 Other packages
